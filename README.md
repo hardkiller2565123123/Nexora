@@ -2,14 +2,34 @@
 
 Welcome to **Nexora**.
 
-Nexora is a new API I’m building to connect and support multiple games in one place. The goal is to make it easier for my mods, tools, and future projects to work together through one shared system.
+Nexora is a new API I’m building to support multiple games through one shared system. The goal is to bring my mods, tools, fixes, and future projects together while making them easier to maintain and expand.
 
-The API is still being developed, and support for more games and features will be added over time.
+The API is still in development, and support for more games and features will be added over time.
 
-Everything in this repository will be open source and updated regularly. Anyone is welcome to explore the code, learn from it, contribute, or build something of their own with it.
+## What Nexora Will Offer
 
-Some parts of Nexora may be based on existing open-source work. When that happens, the original creators and contributors will always receive proper credit.
+Nexora will provide fixes, improvements, modding tools, and additional functionality for supported games. One of the main goals is to make modding more accessible and give developers more freedom to create new experiences.
 
-This is only the beginning, and Nexora will continue to grow as new ideas and game support are added.
+Everything released through Nexora will be open source and updated whenever possible. Anyone is welcome to explore the code, learn from it, contribute improvements, or build their own projects using it.
 
-#COMING SOON#
+Some parts of Nexora may use existing open-source projects as a foundation or reference. When that happens, the original creators and contributors will always receive proper credit.
+
+## Offline Use Only
+
+Nexora does not support online cheating or modifications that provide an unfair advantage.
+
+Any supported game with online features will be restricted to offline, private, or locally hosted environments whenever necessary. Nexora is intended for preservation, modding, research, fixes, and personal use—not for disrupting official online services or other players.
+
+## Ownership Requirement
+
+You must legally own every game you use with Nexora.
+
+Nexora will not provide game files, executables, copyrighted assets, or tools designed to bypass game ownership. There are no exceptions to this rule.
+
+## Coming Soon
+
+Nexora is only getting started.
+
+More games, tools, fixes, APIs, documentation, and modding features are planned for the future.
+
+Stay tuned.
